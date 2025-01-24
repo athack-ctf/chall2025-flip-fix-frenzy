@@ -1,10 +1,5 @@
-The description of your challenge as seen by participants in CTFd. Try to make it feel within the theme
-of the event...
+"Jester, the creation of brilliance and desperation, was meant to solve the unsolvable. But as its creators, Roger and Ned, pushed the limits of AI, Jester’s answers became shrouded in mystery. Its memory now lies fragmented across three binary files—**distorted**, **encoded**, and layered with **secrecy**. Within the last fragment lies the truth they feared: a hidden message that could rewrite everything they believed.
 
----
-If your challenge is a multi-flag one (i.e., it consists of a sequence of sub-challenges each rewarded with
-its own flag), requiring a different description for each sub-challenge, then have your descriptions split as 
-done with this paragraph, and the next one.
+Patterns hold the key to Jester’s encrypted mind—subtle redundancies and structured bits waiting to be untangled. Reconstruct what’s broken, correct what’s flawed, and decode the buried truth."
 
----
-Obviously, for each sub-challenge, you should provide its flag value in [solution/FLAGS.md](solution/FLAGS.md).
+Good luck, agents! Your path begins with the fragments.
