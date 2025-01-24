@@ -1,6 +1,6 @@
-# Chall - Your Challenge Title
+# Chall - Flip-Fix-Frenzy
 
-> A brief description of the challenge
+> Three binary image files await your analysis: imageA, imageB, and imageC. ImageC was carrying a hidden secret that got corrupted somehow. So, your task is to fix this image and extract the hidden secret with the help of imageA and imageB. Good luck! May the bits be in your favor...
 
 ## Type
 
@@ -9,29 +9,21 @@
 
 ## Designer(s)
 
-- Ada Lovelace
-- Barbara Liskov
+- Aniket Agarwal
 
 ## Description
 
-A high-level overview intended to clarify the concept and intuition behind the challenge, outlining its educational
-goals and the skills it aims to test in participants.
+Using binary image data, this challenge introduces participants to error detection, correction, and steganography. It involves:
+- Analyzing a pristine image (imageA) to understand its structure.
+- Learning from an encoded, error-free image (imageB) to identify encoding patterns.
+- Correcting intentional errors in a corrupted image (imageC) and extracting a hidden message.
+
 
 **IMPORTANT:** This description will **NOT** be shared with participants.
 
 ## Category(ies)
 
-- `pwn`
-- `re`
-- `web`
 - `stegano`
-- `env`
-- `crypto`
-- `osint`
-- `web3`
-- `ai`
-- `android`
-- `auto`
 - `misc`
 
 ---
