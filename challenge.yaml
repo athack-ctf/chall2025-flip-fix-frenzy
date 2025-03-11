@@ -1,9 +1,6 @@
-# Name should be "Challenge name" if only one flag, or
-# "Challenge name - 1", "Challenge name - 2", etc. if multiple ones.
-# Be careful of the spaces before and after the '-'
 name: "Flip Fix Frenzy"
-author: ""
-category: <Stegano>
+author: "Aniket"
+category: Stegano
 description: |
     "Jester, the creation of brilliance and desperation, was meant to solve the unsolvable.
     But as its creators, Roger and Ned, pushed the limits of AI, Jester's answers became shrouded in mystery.
@@ -14,33 +11,24 @@ description: |
 
     Good luck, agents! Your path begins with the fragments.
     
-value: 0
+value: 150
 
-# Let's put the challenges as standard for now and we can script to change
 type: standard
 
-
-# Flags specify answers that your challenge use. You should generally provide at least one.
 flags:
   - type: "static"
     content: "ATHACK{!!!J3st3r_wAs_vvR0ng!!!}"
     data: "case_insensitive"
 
-
-# Available: beginner, interac
 tags:
+ - interac
 
-
-# Provide paths to files from the same directory that this file is in
 files:
     - offline-artifacts/imageA-hidden.txt
     - offline-artifacts/imageA.txt
     - offline-artifacts/imageB.txt
     - offline-artifacts/imageC.txt
 
-
-
-# Put hidden by default
-state: hidden
+state: visible
 
 version: "0.1"
