@@ -21,7 +21,7 @@ flags:
     data: "case_insensitive"
 
 tags:
- - interac
+ - sponsored
 
 files:
     - offline-artifacts/imageA-hidden.txt
